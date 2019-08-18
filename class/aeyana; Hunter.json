@@ -545,7 +545,7 @@
 						"name": "Foe Slayer",
 						"entries": [
 							"At 20th level, you strike with supernatural accuracy. You gain a {@dice 1d6} bonus on attack rolls made against the target of your Hunter's Mark.",
-							"Additionally, once per turn when you make an attack at the target of your Hunter's Mark, roll a {@dice d6}. On a 6, if the attack hits the creature, it is a critical hit."
+							"Additionally, once per turn when you make an attack at the target of your Hunter's Mark, you can choose to roll a {@dice d6}. On a 6, if the attack hits the creature, it is a critical hit."
 						]
 					}
 				]
